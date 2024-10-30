@@ -1,0 +1,15 @@
+.image-container {
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.image {
+    opacity: 1;
+    transition: none;
+}
+
+#playFreely {
+  position: relative;
+  z-index: 1000;
+}
